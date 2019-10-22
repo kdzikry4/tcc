@@ -94,4 +94,5 @@ Student@DESKTOP-B8ACH4F MINGW64 ~/my-next-project
 $
 
 ```
+dapat di akses di : https://my-next-project.kdzikry.now.sh
 ![gambar1](./img/Capture1.PNG)
