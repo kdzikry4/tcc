@@ -48,7 +48,7 @@ COPY ./hextris /usr/share/nginx/html
 PS D:\kuliah\Semester5\praktikum-tcc\tcc\uts> docker run -d -p 8080:80 --name=hextris kdzikry/hextris-game:v1
 ca80aa3c21780668c616a018be9de4ca95244d67e6664536732c5ae9796ef43a
 ```
-![hextris](./Capture0.PNG) 
+![hextris](./Capture00.PNG) 
 ## Login & Push ke Docker Hub
 ```
 PS D:\kuliah\Semester5\praktikum-tcc\tcc\uts> docker login -u=kdzikry -p=inipassword
