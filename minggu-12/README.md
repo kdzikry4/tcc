@@ -141,3 +141,5 @@ drupal_1    | AH00558: apache2: Could not reliably determine the server's fully 
 drupal_1    | [Sun Dec 29 07:43:20.639193 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.13 configured -- resuming normal operations
 
 ```
+
+5. disini instalasi berhenti dan tidak berjalan lagi , 
